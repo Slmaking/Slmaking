@@ -1,10 +1,11 @@
-###  👋 Hey there! 
+###  👋 Hey there! I'm Mohammad®™ AKA the Slma King®™ 👋
 
 <!--
-I'm a data scientist with a deep love for Python and R. 🐍 I'm on a mission to unravel the mysteries hidden in data and apply machine learning magic to real-world problems. 💡 Let's connect and explore exciting opportunities for collaboration! 🤝 #DataScience #MachineLearning"
 **Slmaking/Slmaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+ 
+ - I'm on a mission to unravel the mysteries hidden in data and apply machine learning magic to real-world problems. 💡 Let's connect and explore exciting opportunities for collaboration! 🤝 #DataScience #MachineLearning"
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
