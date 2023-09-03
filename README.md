@@ -2,7 +2,6 @@
 
 
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[https://ibb.co/QpFmz7g]" height="100" /></a>
 
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slmaking&hide=contribs&theme=radical)
