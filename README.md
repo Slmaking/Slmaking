@@ -1,4 +1,4 @@
-###  👋 Hey there! I'm Mohammad®™ AKA the Slma King®™ 👋
+###  👋 Hey there! I'm Mohammad®™ AKA the Slma King®™ 
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slmaking&hide=contribs,prs&theme=tokyonight&show_icons=true)
 - 🔭 I'm on a mission to unravel the mysteries hidden in data and apply machine learning magic to real-world problems.
