@@ -11,6 +11,6 @@
 - 🌱 I’m currently working on Natural Language Processing and Recommendations Systems
 - 📫 How to reach me: mghavi71@gmail.com 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Slmaking&hide=contribs,prs&theme=tokyonight&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Slmaking&hide=contribs,prs&theme=tokyonight&show_icons=true" />
 
 
