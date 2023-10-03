@@ -8,7 +8,7 @@
 
 - ✍️  I'm **Mohammad**, Master student [@UMontreal](https://www.umontreal.ca/en/).
 - 🔭 I'm on a mission to unravel the mysteries hidden in data and apply machine learning magic to real-world problems.
-- 💡 Let's connect and explore exciting opportunities for collaboration! 🤝 #Data #MachineLearning
+- 💡 Let's connect and explore exciting opportunities for collaboration! 🤝 #Data_mining #MachineLearning
 - 🌱 I’m currently working on Natural Language Processing and Recommendations Systems
 - 📫 How to reach me: mghavi71@gmail.com or [slmaking.github.io](https://slmaking.github.io/)
 
