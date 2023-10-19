@@ -13,8 +13,9 @@
 - 🌱 I’m currently working on Natural Language Processing and Recommendations Systems
 - 📫 How to reach me: mghavi71@gmail.com or [slmaking.github.io](https://slmaking.github.io/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Slmaking&hide=contribs,prs&theme=tokyonight&show_icons=true" />
 ![QR](https://github.com/Slmaking/Slmaking/assets/58626257/d31a7a9d-4c95-4371-be6d-14036fdbff54)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Slmaking&hide=contribs,prs&theme=tokyonight&show_icons=true" />
 
 
 
