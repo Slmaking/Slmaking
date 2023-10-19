@@ -14,7 +14,7 @@
 - 📫 How to reach me: mghavi71@gmail.com or [slmaking.github.io](https://slmaking.github.io/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slmaking&hide=contribs,prs&theme=tokyonight&show_icons=true" />
-![Alt text](https://github.com/Slmaking/Slmaking/blob/b69549b6dae9d947bc99f994b4d2b9b759eaf566/QR.png)
+![QR](https://github.com/Slmaking/Slmaking/assets/58626257/d31a7a9d-4c95-4371-be6d-14036fdbff54)
 
 
 
