@@ -7,6 +7,7 @@
 
  
 
+
 - ✍️  I'm **Mohammad**, Master student [@UMontreal](https://www.umontreal.ca/en/).
 - 🔭 I'm on a mission to unravel the mysteries hidden in data and apply machine learning magic to real-world problems.
 - 💡 Let's connect and explore exciting opportunities for collaboration! 🤝 #Data_mining #MachineLearning
