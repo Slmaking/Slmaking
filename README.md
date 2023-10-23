@@ -5,7 +5,7 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1_4W7iUrk-MNw6ZnFNcx4Ts4eGayPmMhb/view?usp=sharing)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=slmaking.slmaking)
 
-
+ 
 
 - ✍️  I'm **Mohammad**, Master student [@UMontreal](https://www.umontreal.ca/en/).
 - 🔭 I'm on a mission to unravel the mysteries hidden in data and apply machine learning magic to real-world problems.
