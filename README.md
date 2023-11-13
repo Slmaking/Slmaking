@@ -14,7 +14,7 @@
 - 💡 Let's connect and explore exciting opportunities for collaboration! 🤝 #Data_mining #MachineLearning
 - 🌱 I’m currently working on Natural Language Processing and Recommendations Systems
 - 📫 How to reach me: mghavi71@gmail.com or [slmaking.github.io](https://slmaking.github.io/)
-
+  
 <p align="right">
   <img src="https://github.com/Slmaking/Slmaking/assets/58626257/d31a7a9d-4c95-4371-be6d-14036fdbff54" alt="QR" width="200">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Slmaking&hide=prs&theme=tokyonight&show_icons=true" />
