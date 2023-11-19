@@ -14,6 +14,27 @@
 - 💡 Let's connect and explore exciting opportunities for collaboration! 🤝 #Data_mining #MachineLearning
 - 🌱 I’m currently working on Natural Language Processing and Recommendations Systems
 - 📫 How to reach me: mghavi71@gmail.com or [slmaking.github.io](https://slmaking.github.io/)
+
+
+![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![SkLearn](https://img.shields.io/badge/SkLearn%20-%23E34F26.svg?&style=for-the-badge&logo=scikit%20learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23430098.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab%20-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)
+
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+![MacOS](https://img.shields.io/badge/mac-os?logo=mac&logoColor=white&style=for-the-badge)
+
   
 <p align="right">
   <img src="https://github.com/Slmaking/Slmaking/assets/58626257/d31a7a9d-4c95-4371-be6d-14036fdbff54" alt="QR" width="200">
