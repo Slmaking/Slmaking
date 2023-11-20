@@ -33,6 +33,7 @@
 
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![MacOS](https://img.shields.io/badge/mac-os?logo=mac&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
   
 <p align="right">
