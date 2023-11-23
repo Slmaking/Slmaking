@@ -36,6 +36,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
+
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![MacOS](https://img.shields.io/badge/mac-os?logo=mac&logoColor=white&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
