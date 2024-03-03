@@ -12,7 +12,8 @@
 - ✍️  I'm **Mohammad**, Master degree from [@UMontreal](https://www.umontreal.ca/en/).
 - 💡 Let's connect and explore exciting opportunities for collaboration! 🤝 #Statistics  #MachineLearning
 - 🌱 I’m currently working on Natural Language Processing and Recommendations Systems
-- 📫 How to reach me: mghavi71@gmail.com or [slmaking.github.io](https://slmaking.github.io/)
+- 📫 How to reach me:
+  mghavi71@gmail.com or [slmaking.github.io](https://slmaking.github.io/)
 
 
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
