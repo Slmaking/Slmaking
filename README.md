@@ -3,7 +3,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.ca/citations?user=e9WsL44AAAAJ&hl=en)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/mohammad-ghavidel/)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCBKHRO27jHyJxXgVa2BsFwg)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1_4W7iUrk-MNw6ZnFNcx4Ts4eGayPmMhb/view?usp=sharing)
+[![CV Badge](https://drive.google.com/file/d/1gDbCdpVXGsl3_fyjm2dCKI4q9v5Qbciy/view?usp=drive_link)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=slmaking.slmaking)
 
  
